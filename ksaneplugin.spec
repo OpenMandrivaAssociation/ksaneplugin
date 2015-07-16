@@ -16,8 +16,8 @@ Conflicts:	kdegraphics4-core < 2:4.6.90
 This is a KScan plugin that implements the scanning through libksane.
 
 %files
-%{_kde_libdir}/kde4/ksaneplugin.so
-%{_kde_services}/ksane_scan_service.desktop
+%{_libdir}/kde4/ksaneplugin.so                                                                         
+%{_datadir}/kde4/services/ksane_scan_service.desktop  
 
 #----------------------------------------------------------------------
 
