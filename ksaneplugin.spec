@@ -9,7 +9,7 @@ URL:		http://www.kde.org
 Source:		http://download.kde.org/stable/%{version}/src/%{name}-%{version}.tar.xz
 BuildRequires:	kdelibs-devel
 BuildRequires:	pkgconfig(libksane) >= 0.3.0
-Requires:	libksane
+Requires:	libksane0
 Conflicts:	kdegraphics4-core < 2:4.6.90
 
 %description
