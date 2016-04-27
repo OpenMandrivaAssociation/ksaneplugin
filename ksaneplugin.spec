@@ -1,12 +1,12 @@
 Name:		ksaneplugin
 Summary:	KDE Scan Service
-Version:	15.12.3
-Release:	2
+Version:	16.04.0
+Release:	1
 Epoch:		2
 Group:		Graphical desktop/KDE
 License:	GPLv2
 URL:		http://www.kde.org
-Source:		http://download.kde.org/stable/%{version}/src/%{name}-%{version}.tar.xz
+Source:		http://download.kde.org/stable/applications/%{version}/src/%{name}-%{version}.tar.xz
 BuildRequires:	kdelibs-devel
 BuildRequires:	pkgconfig(libksane) >= 0.3.0
 Requires:	libksane0
