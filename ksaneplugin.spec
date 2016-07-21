@@ -1,6 +1,6 @@
 Name:		ksaneplugin
 Summary:	KDE Scan Service
-Version:	16.04.2
+Version:	16.04.3
 Release:	1
 Epoch:		2
 Group:		Graphical desktop/KDE
