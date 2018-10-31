@@ -3,7 +3,7 @@
 Name:		ksaneplugin
 Summary:	KDE Scan Service
 Version:	17.08.3
-Release:	1
+Release:	2
 Epoch:		2
 Group:		Graphical desktop/KDE
 License:	GPLv2
