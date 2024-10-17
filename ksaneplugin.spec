@@ -7,7 +7,7 @@ Release:	2
 Epoch:		2
 Group:		Graphical desktop/KDE
 License:	GPLv2
-URL:		http://www.kde.org
+URL:		https://www.kde.org
 Source0:	http://download.kde.org/%{stable}/applications/%{version}/src/%{name}-%{version}.tar.xz
 BuildRequires:	kdelibs-devel
 BuildRequires:	pkgconfig(libksane) >= 0.3.0
